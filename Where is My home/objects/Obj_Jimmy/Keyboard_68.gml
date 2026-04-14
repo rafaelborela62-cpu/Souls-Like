@@ -1,0 +1,1 @@
+sprite_index = spr_jimmy_right_walk
