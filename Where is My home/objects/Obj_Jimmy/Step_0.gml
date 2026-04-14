@@ -18,5 +18,24 @@ if keyboard_check(ord("A"))
 if keyboard_check(ord("D"))
 {
 	x+= spd
-	
 }
+
+//Stamina
+
+
+if (keyboard_check_released(vk_space))
+{
+	stam = 5;
+	dash = 25;
+}
+
+if (keyboard_check(vk_space))
+{
+	stam --
+	if (stam == 0)
+	{
+		dash	= 0;
+		speed	= 0
+	}
+}
+
