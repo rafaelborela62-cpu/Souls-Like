@@ -28,8 +28,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"Sprite4",
-    "path":"sprites/Sprite4/Sprite4.yy",
+    "name":"spr_gun_main",
+    "path":"sprites/spr_gun_main/spr_gun_main.yy",
   },
   "spriteMaskId":null,
   "visible":true,
