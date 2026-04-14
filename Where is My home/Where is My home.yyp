@@ -40,6 +40,8 @@
     {"id":{"name":"Object2","path":"objects/Object2/Object2.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
     {"id":{"name":"spr_gun_main","path":"sprites/spr_gun_main/spr_gun_main.yy",},},
+    {"id":{"name":"Spr_Jimmy_dash_left","path":"sprites/Spr_Jimmy_dash_left/Spr_Jimmy_dash_left.yy",},},
+    {"id":{"name":"Spr_Jimmy_dash_rigth","path":"sprites/Spr_Jimmy_dash_rigth/Spr_Jimmy_dash_rigth.yy",},},
     {"id":{"name":"spr_jimmy_left_walk","path":"sprites/spr_jimmy_left_walk/spr_jimmy_left_walk.yy",},},
     {"id":{"name":"Spr_jimmy_Left","path":"sprites/Spr_jimmy_Left/Spr_jimmy_Left.yy",},},
     {"id":{"name":"Spr_Jimmy_main","path":"sprites/Spr_Jimmy_main/Spr_Jimmy_main.yy",},},
