@@ -27,6 +27,7 @@ if keyboard_check(ord("D"))
 
 if (keyboard_check_released(vk_space))
 {
+	// Redefinindo variáveis após uso do dash
 	stam = 5;
 	dash = 25;
 }
@@ -36,6 +37,7 @@ if (keyboard_check(vk_space))
 	stam --
 	if (stam == 0)
 	{
+		// Definindo as variáveis para zero após o uso do dash 
 		dash	= 0;
 		speed	= 0
 	}
