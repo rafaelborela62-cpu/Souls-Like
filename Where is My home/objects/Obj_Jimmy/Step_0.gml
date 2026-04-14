@@ -3,7 +3,6 @@
 if keyboard_check(ord("W"))
 {
   y-= spd
-  
 }
 
 if keyboard_check(ord("S"))
