@@ -37,9 +37,9 @@
   "resources":[
     {"id":{"name":"Obj_arma","path":"objects/Obj_arma/Obj_arma.yy",},},
     {"id":{"name":"Obj_Jimmy","path":"objects/Obj_Jimmy/Obj_Jimmy.yy",},},
-    {"id":{"name":"Object2","path":"objects/Object2/Object2.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
     {"id":{"name":"spr_gun_main","path":"sprites/spr_gun_main/spr_gun_main.yy",},},
+<<<<<<< HEAD
     {"id":{"name":"spr_jimmy_left_walk","path":"sprites/spr_jimmy_left_walk/spr_jimmy_left_walk.yy",},},
     {"id":{"name":"Spr_jimmy_Left","path":"sprites/Spr_jimmy_Left/Spr_jimmy_Left.yy",},},
     {"id":{"name":"Spr_Jimmy_main","path":"sprites/Spr_Jimmy_main/Spr_Jimmy_main.yy",},},
@@ -47,6 +47,11 @@
     {"id":{"name":"Sprite2","path":"sprites/Sprite2/Sprite2.yy",},},
     {"id":{"name":"Sprite3","path":"sprites/Sprite3/Sprite3.yy",},},
     {"id":{"name":"TileSet1","path":"tilesets/TileSet1/TileSet1.yy",},},
+=======
+    {"id":{"name":"spr_Jimmy","path":"sprites/spr_Jimmy/spr_Jimmy.yy",},},
+    {"id":{"name":"spr_tile_main","path":"sprites/spr_tile_main/spr_tile_main.yy",},},
+    {"id":{"name":"tl_tile_main","path":"tilesets/tl_tile_main/tl_tile_main.yy",},},
+>>>>>>> b8098e1044701c63206425e19f9b2b6867e9f956
   ],
   "resourceType":"GMProject",
   "resourceVersion":"2.0",

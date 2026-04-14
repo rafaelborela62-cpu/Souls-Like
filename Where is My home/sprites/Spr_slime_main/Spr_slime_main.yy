@@ -1,6 +1,10 @@
 {
   "$GMSprite":"v2",
+<<<<<<< HEAD:Where is My home/sprites/Spr_slime_main/Spr_slime_main.yy
   "%Name":"Spr_slime_main",
+=======
+  "%Name":"spr_Jimmy",
+>>>>>>> b8098e1044701c63206425e19f9b2b6867e9f956:Where is My home/sprites/Spr_Jimmy/Spr_Jimmy.yy
   "bboxMode":0,
   "bbox_bottom":55,
   "bbox_left":5,
@@ -21,7 +25,11 @@
   "layers":[
     {"$GMImageLayer":"","%Name":"66ba7ee1-6ed7-4e0f-9fd1-9f6382bb9836","blendMode":0,"displayName":"default","isLocked":false,"name":"66ba7ee1-6ed7-4e0f-9fd1-9f6382bb9836","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
   ],
+<<<<<<< HEAD:Where is My home/sprites/Spr_slime_main/Spr_slime_main.yy
   "name":"Spr_slime_main",
+=======
+  "name":"spr_Jimmy",
+>>>>>>> b8098e1044701c63206425e19f9b2b6867e9f956:Where is My home/sprites/Spr_Jimmy/Spr_Jimmy.yy
   "nineSlice":null,
   "origin":0,
   "parent":{
@@ -33,7 +41,11 @@
   "resourceVersion":"2.0",
   "sequence":{
     "$GMSequence":"v1",
+<<<<<<< HEAD:Where is My home/sprites/Spr_slime_main/Spr_slime_main.yy
     "%Name":"Spr_slime_main",
+=======
+    "%Name":"spr_Jimmy",
+>>>>>>> b8098e1044701c63206425e19f9b2b6867e9f956:Where is My home/sprites/Spr_Jimmy/Spr_Jimmy.yy
     "autoRecord":true,
     "backdropHeight":768,
     "backdropImageOpacity":0.5,
@@ -57,7 +69,11 @@
       "resourceType":"KeyframeStore<MomentsEventKeyframe>",
       "resourceVersion":"2.0",
     },
+<<<<<<< HEAD:Where is My home/sprites/Spr_slime_main/Spr_slime_main.yy
     "name":"Spr_slime_main",
+=======
+    "name":"spr_Jimmy",
+>>>>>>> b8098e1044701c63206425e19f9b2b6867e9f956:Where is My home/sprites/Spr_Jimmy/Spr_Jimmy.yy
     "playback":1,
     "playbackSpeed":30.0,
     "playbackSpeedType":0,
@@ -69,8 +85,13 @@
     "tracks":[
       {"$GMSpriteFramesTrack":"","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"$KeyframeStore<SpriteFrameKeyframe>":"","Keyframes":[
             {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
+<<<<<<< HEAD:Where is My home/sprites/Spr_slime_main/Spr_slime_main.yy
                 "0":{"$SpriteFrameKeyframe":"","Id":{"name":"13ef44f6-c73d-4435-bc8a-ede4c3c09db2","path":"sprites/Spr_slime_main/Spr_slime_main.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
               },"Disabled":false,"id":"a100d339-0220-4e02-9155-dde0f932c468","IsCreationKey":false,"Key":0.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+=======
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"3a9b22e7-e3bd-43d3-b00b-d90025bc87e7","path":"sprites/spr_Jimmy/spr_Jimmy.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+              },"Disabled":false,"id":"230c69ee-87f2-4244-b1a1-8bee5e859ce7","IsCreationKey":false,"Key":0.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+>>>>>>> b8098e1044701c63206425e19f9b2b6867e9f956:Where is My home/sprites/Spr_Jimmy/Spr_Jimmy.yy
           ],"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"2.0",},"modifiers":[],"name":"frames","resourceType":"GMSpriteFramesTrack","resourceVersion":"2.0","spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],
     "visibleRange":null,
